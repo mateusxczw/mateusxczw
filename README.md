@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying web development and english;<br>i like to watch series and movies <br>i like to play wuthering waves and ZZZ :(<br>I'm from Brazil, Rio de Janeiro <br>
+I'm currently studying web development and english;<br>i like to watch series and movies <br>i like to play wuthering waves and ZZZ <br>I'm from Brazil, Rio de Janeiro <br>
 
 
 ## 🌐 Socials:
